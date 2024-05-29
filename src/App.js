@@ -5,7 +5,7 @@ import TextForm from './components/TextForm';
 import About from './components/About';
 import Alert from './components/Alert';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
 
@@ -38,13 +38,13 @@ function App() {
   }
   return (
     <>
-    <Router basename='/TextUtils-React'>
+    <Router>
    <Navbar title="Textutils"  aboutText="About Us" mode={mode} toggleMode={toggleMode} />
    <Alert alert={alert}/>
    <div className="container my-3">
    
    <Routes>
-          <Route exact path="/TextUtils-React" element={<TextForm showAlert={showAlert} heading="Enter the text to analyze" mode={mode}/>}></Route>
+          <Route exact path="/" element={<TextForm showAlert={showAlert} heading="Enter the text to analyze" mode={mode}/>}></Route>
           <Route exact path="/About" element={<About mode={mode} />}></Route>
     </Routes>
     </div>
