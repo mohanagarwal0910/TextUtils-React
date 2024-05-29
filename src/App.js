@@ -5,10 +5,10 @@ import TextForm from './components/TextForm';
 import About from './components/About';
 import Alert from './components/Alert';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
-  
+
   
 } from "react-router-dom";
 function App() {
