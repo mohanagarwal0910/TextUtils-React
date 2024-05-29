@@ -5,7 +5,7 @@ import TextForm from './components/TextForm';
 import About from './components/About';
 import Alert from './components/Alert';
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Routes,
   Route,
 
