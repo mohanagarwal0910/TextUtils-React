@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mohanagarwal0910/TextUtils-React.git/static/css/main.f855e6bc.css",
-    "main.js": "/mohanagarwal0910/TextUtils-React.git/static/js/main.739b445c.js",
+    "main.js": "/mohanagarwal0910/TextUtils-React.git/static/js/main.61119d50.js",
     "static/js/453.9631248a.chunk.js": "/mohanagarwal0910/TextUtils-React.git/static/js/453.9631248a.chunk.js",
     "index.html": "/mohanagarwal0910/TextUtils-React.git/index.html",
     "main.f855e6bc.css.map": "/mohanagarwal0910/TextUtils-React.git/static/css/main.f855e6bc.css.map",
-    "main.739b445c.js.map": "/mohanagarwal0910/TextUtils-React.git/static/js/main.739b445c.js.map",
+    "main.61119d50.js.map": "/mohanagarwal0910/TextUtils-React.git/static/js/main.61119d50.js.map",
     "453.9631248a.chunk.js.map": "/mohanagarwal0910/TextUtils-React.git/static/js/453.9631248a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.739b445c.js"
+    "static/js/main.61119d50.js"
   ]
 }
